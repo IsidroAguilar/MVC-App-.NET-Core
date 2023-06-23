@@ -85,7 +85,7 @@ Si deseas contribuir a este proyecto, puedes seguir los pasos a continuación:
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia MIT]. Puedes consultar el archivo [LICENSE](https://github.com/IsidroAguilar/MVC-App-.NET-Core/blob/main/LICENSE) para obtener más detalles.
+Este proyecto está bajo la [Licencia MIT]. Puedes consultar el archivo [LICENSE](https://github.com/IsidroAguilar/MVC-App-.NET-Core/blob/main/README.md) para obtener más detalles.
 
 ## Contacto
 
